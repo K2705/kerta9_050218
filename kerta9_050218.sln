@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{FAF8D736-EF0F-49D6-91D8-4D8B2C233A07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht1", "D:\K2705\VS2017 projects\Teht1\Teht1.csproj", "{2EAF7413-44E5-4A80-A334-E911FA65FCC1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht1", "Teht1\Teht1.csproj", "{2EAF7413-44E5-4A80-A334-E911FA65FCC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht2", "D:\K2705\VS2017 projects\teht2\teht2.csproj", "{6A43D67C-45FC-4DE0-8A44-349B2CFAA0E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht2", "Teht2\teht2.csproj", "{6A43D67C-45FC-4DE0-8A44-349B2CFAA0E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
